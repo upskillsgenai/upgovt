@@ -1,0 +1,138 @@
+# 🧾 LAB MANUAL: Microsoft Excel – Practical Exercises  
+
+---
+
+## Objective  
+To understand and apply various data management and formatting tools in Microsoft Excel, including formulas, freeze panes, charts, conditional formatting, and document encryption.  
+
+---
+
+## Software Requirement  
+- Microsoft Excel (Version 2016 or above)  
+
+---
+
+## List of Experiments  
+
+1. Using Formulas in Excel  
+2. Applying Freeze Panes  
+3. Inserting Charts  
+4. Applying Conditional Formatting  
+5. Encrypting a Document  
+
+---  
+
+## 🧮 Experiment 1: Using Formulas in Excel  
+
+**Aim**  
+To perform basic and advanced calculations using Excel formulas.  
+
+**Steps**  
+1. Open Microsoft Excel and create a new workbook.  
+2. Enter the following sample data:  
+   | A   | B   |  
+   |-----|-----|  
+   | 10  | 20  |  
+   | 30  | 40  |  
+   | 50  | 60  |  
+3. In cell C1, type `=A1+B1` and press Enter (Addition).  
+4. Drag the Fill Handle down to apply it to other rows.  
+5. Try other basic formulas:  
+   - Subtraction → `=A1-B1`  
+   - Multiplication → `=A1*B1`  
+   - Division → `=A1/B1`  
+   - Average → `=AVERAGE(A1:B3)`  
+   - Sum → `=SUM(A1:B3)`  
+6. Try an advanced function:  
+   - `=IF(A1>20,"High","Low")`  
+
+**Result**  
+Successfully used Excel formulas to calculate and analyze data.  
+
+---
+
+## 🧊 Experiment 2: Freeze Panes  
+
+**Aim**  
+To learn how to freeze rows and columns for easy data viewing.  
+
+**Steps**  
+1. Open a workbook with large data (more than one screen).  
+2. Go to the View Tab → Freeze Panes.  
+3. Choose one of the following:  
+   - Freeze Top Row – Keeps the first row visible.  
+   - Freeze First Column – Keeps the first column visible.  
+   - Freeze Panes – Freezes both rows and columns up to the selected cell.  
+4. Scroll the sheet and observe that the frozen part remains visible.  
+5. To remove freezing, click View → Unfreeze Panes.  
+
+**Result**  
+Successfully used Freeze Panes to keep headings visible while scrolling.  
+
+---
+
+## 📊 Experiment 3: Inserting Charts in Excel  
+
+**Aim**  
+To create visual representations of data using Excel charts.  
+
+**Steps**  
+1. Enter sample data as shown below:  
+   | Month | Sales |  
+   |-------|-------|  
+   | Jan   | 2000  |  
+   | Feb   | 2500  |  
+   | Mar   | 3000  |  
+   | Apr   | 2800  |  
+2. Select the entire data range.  
+3. Go to Insert → Charts Group.  
+4. Choose a chart type such as Column, Line, or Pie Chart.  
+5. Customize using Chart Design and Format tabs:  
+   - Add Chart Title  
+   - Add Axis Titles  
+   - Change colors or layout  
+6. Save your workbook.  
+
+**Result**  
+Created and formatted different chart types to visualize data effectively.  
+
+---
+
+## 🎨 Experiment 4: Conditional Formatting  
+
+**Aim**  
+To apply conditional formatting for highlighting data based on conditions.  
+
+**Steps**  
+1. Open an Excel sheet with numeric or text data.  
+2. Select the data range to format.  
+3. Go to Home → Conditional Formatting.  
+4. Choose one of the following rules:  
+   - Highlight Cells Rules → Greater Than, Less Than, Between.  
+5. Example:  
+   - Select marks column → Conditional Formatting → Highlight Cells → Greater Than → Type 50 → Choose color.  
+6. Observe cells that meet the condition change color.  
+
+**Result**  
+Applied and verified conditional formatting for different conditions.  
+
+---
+
+## 🔐 Experiment 5: Document Encryption in Excel  
+
+**Aim**  
+To secure an Excel workbook by adding a password.  
+
+**Steps**  
+1. Open the Excel workbook you want to protect.  
+2. Click File → Info → Protect Workbook → Encrypt with Password.  
+3. Enter and confirm your password.  
+4. Save and close the workbook.  
+5. Reopen it — Excel will prompt you to enter the password.  
+6. To remove the password:  
+   - Go to File → Info → Protect Workbook → Encrypt with Password.  
+   - Delete the existing password and click OK.  
+   - Save again.  
+
+**Result**  
+Successfully applied and removed password protection for an Excel workbook.  
