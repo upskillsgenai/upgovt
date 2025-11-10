@@ -17,7 +17,7 @@ Test your knowledge and understanding from this session.
 Complete this short assessment to receive your training completion certificate.  
 **(अपनी समझ की जाँच हेतु नीचे दिया गया मूल्यांकन पूरा करें।)**  
 
-📘 **Assessment Link:** [Take the Assessment / Quiz](https://forms.office.com/)  
+📘 **Assessment Link:** [Take the Assessment / Quiz]([https://forms.office.com/](https://forms.gle/ipCwiM1aPy2EckfV9))  
 
 
 ---
