@@ -7,7 +7,7 @@ Please share your honest feedback about today’s GenAI Training Session.
 ⭐ **Kindly rate the session 5 out of 5 if you found it useful and insightful!**  
 **(यदि यह प्रशिक्षण आपके लिए उपयोगी और जानकारीपूर्ण रहा, तो कृपया 5 में से 5 अंक दें।)**  
 
-🔗 **Feedback Link:** [Click here to fill Feedback Form](https://forms.office.com/)  
+🔗 **Feedback Link:** [Click here to fill Feedback Form](https://www.metricsthatmatter.com/url/u.aspx?A08A7DCEE229294471)  
 
 
 ---
@@ -17,7 +17,7 @@ Test your knowledge and understanding from this session.
 Complete this short assessment to receive your training completion certificate.  
 **(अपनी समझ की जाँच हेतु नीचे दिया गया मूल्यांकन पूरा करें।)**  
 
-📘 **Assessment Link:** [Take the Assessment / Quiz](https://forms.office.com/](https://forms.gle/ipCwiM1aPy2EckfV9)  
+📘 **Assessment Link:** [Take the Assessment / Quiz](https://forms.gle/ipCwiM1aPy2EckfV9)   
 
 
 ---
