@@ -27,6 +27,15 @@ Complete this short assessment to receive your training completion certificate.
 - Your feedback ensures quality improvement for upcoming GenAI training programs.  
 
 ---
+**Access Course 1 Content:**  
+[Click here to access Course 1 on Microsoft Learn](https://learn.microsoft.com/en-us/users/me/achievements?redeem=798GDY&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289)  
+**(Microsoft Learn पर Course 1 की सामग्री देखने के लिए यहाँ क्लिक करें)**  
+
+---
+📘 **Access Course 2 Content:**  
+[Click here to access Course 2 on Microsoft Learn](https://learn.microsoft.com/en-us/users/me/achievements?redeem=LV2PZ2&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289)  
+**(Microsoft Learn पर Course 2 की सामग्री देखने के लिए यहाँ क्लिक करें)**  
+
 
 ### 🏆 **Thank You for Participating!**  
 **Your participation contributes to building a smarter, AI-empowered Secretariat workforce.**  
