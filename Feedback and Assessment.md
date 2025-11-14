@@ -34,7 +34,8 @@ Complete this short assessment to receive your training completion certificate.
 
 ---
 📘 **Access Course 2 Content:**  
-[Click here to access Course 2 on Microsoft Learn](https://learn.microsoft.com/en-us/users/me/achievements?redeem=4Z5VYD&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289)  
+<img src="https://raw.githubusercontent.com/upskillsgenai/upgovt/main/QR/Course-2%2014%20Nov.png" alt="Course 2 QR" width="200" height="200">
+ 
 **(Microsoft Learn पर Course 2 की सामग्री देखने के लिए यहाँ क्लिक करें)**  
 
 
