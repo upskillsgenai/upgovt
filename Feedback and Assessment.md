@@ -28,7 +28,7 @@ Complete this short assessment to receive your training completion certificate.
 
 ---
 **Access Course 1 Content:**  
-![Course 1 QR](https://raw.githubusercontent.com/upskillsgenai/upgovt/main/QR/Course-1%2014%20Nov.png)
+<img src="https://raw.githubusercontent.com/upskillsgenai/upgovt/main/QR/Course-1%2014%20Nov.png" alt="Course 1 QR" width="200" height="200">
   
 **(Microsoft Learn पर Course 1 की सामग्री देखने के लिए यहाँ क्लिक करें)**  
 
