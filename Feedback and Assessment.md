@@ -7,7 +7,7 @@ Please share your honest feedback about today’s GenAI Training Session.
 ⭐ **Kindly rate the session 5 out of 5 if you found it useful and insightful!**  
 **(यदि यह प्रशिक्षण आपके लिए उपयोगी और जानकारीपूर्ण रहा, तो कृपया 5 में से 5 अंक दें।)**  
 
-🔗 **Feedback Link:** [Click here to fill Feedback Form](https://www.metricsthatmatter.com/url/u.aspx?CF2D712B3229294480) 
+🔗 **Feedback Link:** [Click here to fill Feedback Form](https://www.metricsthatmatter.com/url/u.aspx?64FDD1DF1229294487) 
 
 
 ---
@@ -28,7 +28,8 @@ Complete this short assessment to receive your training completion certificate.
 
 ---
 **Access Course 1 Content:**  
-[Click here to access Course 1 on Microsoft Learn](https://learn.microsoft.com/en-us/users/me/achievements?redeem=Y9MNV3&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289)  
+![Course 1 QR](https://raw.githubusercontent.com/upskillsgenai/upgovt/main/QR/Course-1%2014%20Nov.png)
+  
 **(Microsoft Learn पर Course 1 की सामग्री देखने के लिए यहाँ क्लिक करें)**  
 
 ---
